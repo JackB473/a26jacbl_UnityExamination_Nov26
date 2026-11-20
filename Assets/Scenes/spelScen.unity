@@ -430,7 +430,7 @@ MonoBehaviour:
   textBox: {fileID: 564247332}
   nextButton: {fileID: 1587090003}
   dialogue:
-  - can you help me by pusing my raft to the harbor?
+  - Hello Hajen! Can you help me by pusing my raft to the harbor?
   onStartDialogue:
     m_PersistentCalls:
       m_Calls:
